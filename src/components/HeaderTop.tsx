@@ -1,5 +1,5 @@
 import React from "react";
-import {BsFacebook} from "react-icons/bs"
+import {BsFacebook,BsTwitter,BsInstagram, BsLinkedin} from "react-icons/bs"
 
 const HeaderTop = () => {
   return (
@@ -9,6 +9,15 @@ const HeaderTop = () => {
           <div className="hidden lg:flex gap-1">
             <div className="header_top_icon_wrapper">
              <BsFacebook/>
+            </div>
+            <div className="header_top_icon_wrapper">
+<BsTwitter/>
+            </div>
+            <div className="header_top_icon_wrapper">
+<BsInstagram/>
+            </div>
+            <div className="header_top_icon_wrapper">
+<BsLinkedin/>
             </div>
           </div>
         </div>
