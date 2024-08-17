@@ -20,6 +20,10 @@ const HeaderTop = () => {
 <BsLinkedin/>
             </div>
           </div>
+
+          <div className="text-gray-500 text-[12px]">
+<b> FREE SHIPPING </b> THIS WEEK ORDER OVER -50$
+          </div>
         </div>
       </div>
       Header Top

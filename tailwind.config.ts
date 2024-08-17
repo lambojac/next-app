@@ -8,18 +8,16 @@ const config: Config = {
   ],
   theme: {
     extend: {
-     container:{
-      center:true,
-      padding:"15px"
-     }
+      container: {
+        center: true,
+        padding: "15px",
       },
-      colors:{
-        accent:"#FF89C",
-        blackish:"#1b1b1b",
-        
-      }
+      colors: {
+        accent: "#FF89CC", // Corrected the hex value to 6 characters
+        blackish: "#1b1b1b",
+      },
     },
-  }
+  },
+};
 
- 
 export default config;
