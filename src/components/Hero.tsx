@@ -33,14 +33,14 @@ const Hero = () => {
       img: "/",
       title: "Trending Item",
       mainTitle: "Women's Latest fashion sale",
-      price: "$20",
+      price: "$10",
     },
     {
       id: 3,  // Changed IDs to be unique
       img: "/",
       title: "Trending Item",
       mainTitle: "Women's Latest fashion sale",
-      price: "$20",
+      price: "$30",
     },
   ];
 
