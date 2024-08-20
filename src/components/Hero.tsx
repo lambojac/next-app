@@ -16,28 +16,28 @@ const Hero = () => {
   const slideData = [
     {
       id: 0,
-      img: "/",
+      img: "/image.jpg",
       title: "Trending Item",
       mainTitle: "Women's Latest fashion sale",
       price: "$20",
     },
     {
       id: 1,  // Changed IDs to be unique
-      img: "/",
+      img: "/image.jpg",
       title: "Trending Item",
       mainTitle: "Women's Latest fashion sale",
       price: "$20",
     },
     {
       id: 2,  // Changed IDs to be unique
-      img: "/",
+      img: "/image.jpg",
       title: "Trending Item",
       mainTitle: "Women's Latest fashion sale",
       price: "$10",
     },
     {
       id: 3,  // Changed IDs to be unique
-      img: "/",
+      img: "/image.jpg",
       title: "Trending Item",
       mainTitle: "Women's Latest fashion sale",
       price: "$30",
