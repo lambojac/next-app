@@ -1,4 +1,4 @@
-"use client";
+
 import React from 'react';
 import Slide from "./Slide";
 import Slider from "react-slick";
