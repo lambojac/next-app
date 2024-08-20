@@ -1,6 +1,10 @@
+import Hero from "../components/Hero"
+
 export default function Home() {
   return (
-    <main>Hello there</main>
+    <main>
+      <Hero/>
+    </main>
   );
 }
 
